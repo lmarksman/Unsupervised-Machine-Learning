@@ -1,0 +1,3 @@
+Based on the information discovered, there is no set recommendation. 
+There are no significant clusters. 
+Thus the curve can be plotted with any number of clusters.
